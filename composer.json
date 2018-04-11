@@ -1,0 +1,14 @@
+{
+    "name": "waqar/buddypress-graphql",
+    "description": "GraphQL plugin for Buddypress",
+    "authors": [
+        {
+            "name": "Waqar Muneer",
+            "email": "waqarmuneer@gmail.com"
+        }
+    ],
+    "require": {},
+     "autoload": {
+        "psr-4": {"BuddypressGraphQL\\": "src/"}
+    }
+}
